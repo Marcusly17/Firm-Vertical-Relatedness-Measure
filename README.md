@@ -43,10 +43,6 @@ All input-Output Data can be download from: https://www.bea.gov/industry/benchma
 
 The notebook here shows the process for constructing the dataset for all firms in the WRDS Compustat Database from 1992 to 2019. 
 
-## Result
-
-The main findings of the code can be found at the post available here. 
-
 ## Reference
 
 Reference:
