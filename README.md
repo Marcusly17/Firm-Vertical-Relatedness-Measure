@@ -1,3 +1,4 @@
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 # Firm-Vertical-Relatedness-Measure
 Estimate a firm's vertical relatedness based on the Industry Input-Output Table and its segments' sales
 
