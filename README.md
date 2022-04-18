@@ -16,12 +16,12 @@ With the estimated data, I can better understand firms' vertical relatedness cha
 ### Steps to measure firms' vertical relatedness 
 
 - Measuring interindustry vertical relatedness
-  1. $a_{ij}$: each pair of industry, $i$ and $j$, the dollar value of $i$’s output required to produce industry $j$’s total output
-  2. $v_{ij}$: $\frac{a_{ij}}{\text{the dollar value of industry} \ \ j \text{’s total ouput}}$
-  3. $V_{ij}=1/2(v_{ij}+v_{ji})$: a proxy for the opportunity for vertical integration between industries $i$ and $j$ .
+  1. <img src="https://render.githubusercontent.com/render/math?math=a_{ij}">: each pair of industry, *i* and *j*, the dollar value of *i*’s output required to produce industry *j*’s total output
+  2. <img src="https://render.githubusercontent.com/render/math?math=v_{ij}">: <img src="https://render.githubusercontent.com/render/math?math=a_{ij}\/ \text{the dollar value of industry j’s total ouput}">
+  3. <img src="https://render.githubusercontent.com/render/math?math={V_{ij}=1/2(v_{ij} %2B v_{ji})}">: a proxy for the opportunity for vertical integration between industries *i* and *j* .
 - Measuring firms' vertical relatedness
-  1. $$w_j$$ : the weight of segment sales in all segment sales except the primary segment $$i$$ with the highest segment sale
-  2. $$V = \sum_{j}(w_{j}\times V_{ij})$$ : a firm's vertical relatedness is the weighted average interindustry vertical relatedness by segments sale
+  1. <img src="https://render.githubusercontent.com/render/math?math=w_j">: the weight of segment sales in all segment sales except the primary segment *i* with the highest segment sale
+  2. <img src="https://render.githubusercontent.com/render/math?math=V = \sum_{j}(w_{j}\times V_{ij})">: a firm's vertical relatedness is the weighted average interindustry vertical relatedness by segments sale
 
 ### Steps to process data
 
@@ -41,7 +41,7 @@ All input-Output Data can be download from: https://www.bea.gov/industry/benchma
 - NAICS(SIC) to IO industry codes conversion tables are manually created in `IO*` folder
 - Firms' segment sales data can be accessed from [WRDS - Compustat - Historical Segments section](https://wrds-www.wharton.upenn.edu/pages/get-data/compustat-capital-iq-standard-poors/compustat/historical-segments-daily/historical-segments/). 
 
-The notebook here shows the process for constructing the dataset for all firms in the WRDS Compustat Database from 1992 to  2019. 
+The notebook here shows the process for constructing the dataset for all firms in the WRDS Compustat Database from 1992 to 2019. 
 
 ## Result
 
