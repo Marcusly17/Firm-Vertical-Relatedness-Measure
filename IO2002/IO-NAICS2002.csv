@@ -1,0 +1,539 @@
+﻿I-O Industry number,I-O Industry title,NAICS
+1111A0 ,Oilseed farming                                                                                                              ,11111
+1111A0 ,Oilseed farming                                                                                                              ,11112
+1111B0 ,Grain farming                                                                                                                ,11113
+1111B0 ,Grain farming                                                                                                                ,11114
+1111B0 ,Grain farming                                                                                                                ,11115
+1111B0 ,Grain farming                                                                                                                ,11116
+1111B0 ,Grain farming                                                                                                                ,11119
+111200,Vegetable and melon farming                                                                                                  ,1112
+1113A0,Fruit farming                                                                  ,11131
+1113A0,Fruit farming                                                                  ,11132
+1113A0,Fruit farming                                                                  ,111331 
+1113A0,Fruit farming                                                                  ,111332
+1113A0,Fruit farming                                                                  ,111333
+1113A0,Fruit farming                                                                  ,111334
+1113A0,Fruit farming                                                                  ,111336
+1113A0,Fruit farming                                                                  ,111339
+111335,Tree nut farming                                                                                                             ,111335
+111335,Tree nut farming                                                                                                             ,111336
+111400,"Greenhouse, nursery, and floriculture production",1114
+111910,Tobacco farming                                                                                                   ,11191
+111920,Cotton farming,11192
+1119A0 ,Sugarcane and sugar beet farming                                                                                             ,11193
+1119A0 ,Sugarcane and sugar beet farming                                                                                             ,111991
+1119B0 ,All other crop farming                                                                                                       ,11194
+1119B0 ,All other crop farming                                                                                                       ,111992
+1119B0 ,All other crop farming                                                                                                       ,111998
+1121A0 ,Cattle ranching and farming                                                                                                  ,11211
+1121A0 ,Cattle ranching and farming                                                                                                  ,11213
+112120,Dairy cattle and milk production                                                                                                              ,11212
+112A00,"Animal production, except cattle and poultry and eggs                          ",1122
+112A00,"Animal production, except cattle and poultry and eggs                          ",1124
+112A00,"Animal production, except cattle and poultry and eggs                          ",1125
+112A00,"Animal production, except cattle and poultry and eggs                          ",1129
+112300,Poultry and egg production                                                                                                   ,1123
+113A00 ,"Forest nurseries, forest products, and timber tracts                                                                         ",1131
+113A00 ,"Forest nurseries, forest products, and timber tracts                                                                         ",1132
+113300,Logging                                                                                                                      ,1133
+114100,Fishing                                                                                                                      ,1141
+114200,Hunting and trapping                                                                                                         ,1142
+115000,Support activities for agriculture and forestry,115
+211000,Oil and gas extraction                                                                                                       ,211
+212100,Coal mining                                                                                                                  ,2121
+212210,Iron ore mining                                                                                                              ,21221
+2122A0 ,"Gold, silver, and other metal ore mining                                                                                     ",21222
+2122A0 ,"Gold, silver, and other metal ore mining                                                                                     ",21229
+212230,"Copper, nickel, lead, and zinc mining                                                                                        ",21223
+212310,Stone mining and quarrying                                                                                                   ,21231
+212320,"Sand, gravel, clay, and ceramic and refractory minerals mining and quarrying",21232
+212390,Other nonmetallic mineral mining and quarrying,21239
+213111,Drilling oil and gas wells                                                                                                   ,213111
+213112,Support activities for oil and gas operations                                                                                ,213112
+21311A,Support activities for other mining                                            ,213113
+21311A,Support activities for other mining                                            ,213114
+21311A,Support activities for other mining                                            ,213115
+221100,"Electric power generation, transmission, and distribution",2211
+221200,Natural gas distribution                                                                                                     ,2212
+221300,"Water, sewage and other systems                                                                                              ",2213
+230101,Nonresidential commercial and health care structures,23
+230102,Nonresidential manufacturing structures,23
+230103,Other nonresidential structures                                                                                              ,23
+230201,Residential permanent site single- and multi-family structures                                                               ,23
+230202,Other residential structures,23
+230301,Nonresidential maintenance and repair,23
+230302,Residential maintenance and repair,23
+311111,Dog and cat food manufacturing                                                                                               ,311111
+311119,Other animal food manufacturing                                                                                              ,311119
+311210,Flour milling and malt manufacturing                                                                                         ,31121
+311221,Wet corn milling                                                                                                             ,311221
+31122A ,Soybean and other oilseed processing                                                                                         ,311222
+31122A ,Soybean and other oilseed processing                                                                                         ,311223
+311225,Fats and oils refining and blending                                                                                          ,311225
+311230,Breakfast cereal manufacturing                                                                                               ,311230
+31131A ,Sugar cane mills and refining                                                                                                ,311311
+31131A ,Sugar cane mills and refining                                                                                                ,311312
+311313,Beet sugar manufacturing                                                                                                     ,311313
+311320,Chocolate and confectionery manufacturing from cacao beans,31132
+311330,Confectionery manufacturing from purchased chocolate                                                                         ,31133
+311340,Nonchocolate confectionery manufacturing                                                                                     ,31134
+311410,Frozen food manufacturing                                                                                                    ,31141
+311420,"Fruit and vegetable canning, pickling, and drying                                                                             ",31142
+31151A ,Fluid milk and butter manufacturing                                                                                          ,311511
+31151A ,Fluid milk and butter manufacturing                                                                                          ,311512
+311513,Cheese manufacturing                                                                                                         ,311513
+311514,"Dry, condensed, and evaporated dairy product manufacturing",311514
+311520,Ice cream and frozen dessert manufacturing                                                                                   ,311520
+31161A ,"Animal (except poultry) slaughtering, rendering, and processing",311611
+31161A ,"Animal (except poultry) slaughtering, rendering, and processing",311612
+31161A ,"Animal (except poultry) slaughtering, rendering, and processing",311613
+311615,Poultry processing                                                                                                           ,311615
+311700,Seafood product preparation and packaging                                                                                    ,3117
+311810,Bread and bakery product manufacturing                                                                                       ,31181
+311820,"Cookie, cracker, and pasta manufacturing                                                                                      ",31182
+311830,Tortilla manufacturing                                                                                                       ,31183
+311910,Snack food manufacturing                                                                                                     ,31191
+311920,Coffee and tea manufacturing                                                                                                 ,31192
+311930,Flavoring syrup and concentrate manufacturing                                                                                ,31193
+311940,Seasoning and dressing manufacturing                                                                                         ,31194
+311990,All other food manufacturing                                                                                                 ,31199
+312110,Soft drink and ice manufacturing                                                                                             ,31211
+312120,Breweries                                                                                                                    ,31212
+312130,Wineries                                                                                                                     ,31213
+312140,Distilleries                                                                                                                 ,31214
+3122A0 ,Tobacco product manufacturing                                                                                                ,3122
+313100,"Fiber, yarn, and thread mills                                                                                                ",3131
+313210,Broadwoven fabric mills                                                                                                      ,31321
+313220,Narrow fabric mills and schiffli machine embroidery,31322
+313230,Nonwoven fabric mills                                                                                                        ,31323
+313240,Knit fabric mills                                                                                                            ,31324
+313310,Textile and fabric finishing mills                                                                                           ,31331
+313320,Fabric coating mills                                                                                                         ,31332
+314110,Carpet and rug mills                                                                                                         ,31411
+314120,Curtain and linen mills                                                                                                      ,31412
+314910,Textile bag and canvas mills                                                                                                 ,31491
+314990,All other textile product mills                                                                                ,31499
+315100,Apparel knitting mills,31511
+315100,Apparel knitting mills,31519
+315210,Cut and sew apparel contractors                                                                                              ,31521
+315220,Men's and boys' cut and sew apparel manufacturing                                                                            ,31522
+315230,Women's and girls' cut and sew apparel manufacturing                                                                         ,31523
+315290,Other cut and sew apparel manufacturing                                                                                      ,31529
+315900,Apparel accessories and other apparel manufacturing,3159
+316100,Leather and hide tanning and finishing                                                                                       ,3161
+316200,Footwear manufacturing                                                                                                       ,3162
+316900,Other leather and allied product manufacturing                                                                               ,3169
+321100,Sawmills and wood preservation                                                                                               ,3211
+32121A ,Veneer and plywood manufacturing                                                                                             ,321211
+32121A ,Veneer and plywood manufacturing                                                                                             ,321212
+32121B ,Engineered wood member and truss manufacturing                                                                               ,321213
+32121B ,Engineered wood member and truss manufacturing                                                                               ,321214
+321219,Reconstituted wood product manufacturing                                                                                     ,321219
+321910,Wood windows and doors and millwork,32191
+321920,Wood container and pallet manufacturing                                                                                      ,32192
+321991,Manufactured home (mobile home) manufacturing,321991
+321992,Prefabricated wood building manufacturing                                                                                    ,321992
+321999,All other miscellaneous wood product manufacturing,321999
+322110,Pulp mills                                                                                                                   ,32211
+322120,Paper mills                                                                                                                  ,32212
+322130,Paperboard Mills                                                                                                             ,32213
+322210,Paperboard container manufacturing                                                                                           ,32221
+32222A ,"Coated and laminated paper, packaging paper and plastics film manufacturing                                                         ",322221
+32222A ,"Coated and laminated paper, packaging paper and plastics film manufacturing                                                         ",322222
+32222B ,All other paper bag and coated and treated paper manufacturing                                                                        ,322223
+32222B ,All other paper bag and coated and treated paper manufacturing                                                                        ,322224
+32222B ,All other paper bag and coated and treated paper manufacturing                                                                        ,322225
+32222B ,All other paper bag and coated and treated paper manufacturing                                                                        ,322226
+322230,Stationery product manufacturing                                                                                             ,32223
+322291,Sanitary paper product manufacturing                                                                                         ,322291
+322299,All other converted paper product manufacturing                                                                              ,322299
+323110,Printing                                                                                                                     ,"32311
+"
+323120,Support activities for printing                                                                                              ,32312
+324110,Petroleum refineries                                                                                                         ,32411
+324121,Asphalt paving mixture and block manufacturing                                                                               ,324121
+324122,Asphalt shingle and coating materials manufacturing                                                                          ,324122
+324191,Petroleum lubricating oil and grease manufacturing                                                                           ,324191
+324199,All other petroleum and coal products manufacturing                                                                          ,324199
+325110,Petrochemical manufacturing                                                                                                  ,32511
+325120,Industrial gas manufacturing                                                                                                 ,32512
+325130,Synthetic dye and pigment manufacturing                                                                                      ,32513
+325181,Alkalies and chlorine manufacturing                                                                                          ,325181
+325182,Carbon black manufacturing                                                                                                   ,325182
+325188,All other basic inorganic chemical manufacturing                                                                             ,325188
+325190,Other basic organic chemical manufacturing                                                                                   ,32519
+325211,Plastics material and resin manufacturing                                                                                    ,325211
+325212,Synthetic rubber manufacturing                                                                                               ,325212
+325220,Artificial and synthetic fibers and filaments manufacturing                                                                  ,32522
+325310,Fertilizer manufacturing,325311
+325310,Fertilizer manufacturing,325312
+325310,Fertilizer manufacturing,325313
+325310,Fertilizer manufacturing,325314
+325320,Pesticide and other agricultural chemical manufacturing,325320
+325411,Medicinal and botanical manufacturing                                                                                        ,325411
+325412,Pharmaceutical preparation manufacturing                                                                                     ,325412
+325413,In-vitro diagnostic substance manufacturing                                                                                  ,325413
+325414,Biological product (except diagnostic) manufacturing                                                                         ,325414
+325510,Paint and coating manufacturing                                                                                              ,32551
+325520,Adhesive manufacturing                                                                                                       ,32552
+325610,Soap and cleaning compound manufacturing                                                                                     ,32561
+325620,Toilet preparation manufacturing                                                                                             ,32562
+325910,Printing ink manufacturing                                                                                                   ,32591
+3259A0 ,All other chemical product and preparation manufacturing                                                                     ,32592
+3259A0 ,All other chemical product and preparation manufacturing                                                                     ,32599
+326110,Plastics packaging materials and unlaminated film and sheet manufacturing ,32611
+326121,Unlaminated plastics profile shape manufacturing                                                                             ,326121
+326122,Plastics pipe and pipe fitting manufacturing                                                                                 ,326122
+326130,"Laminated plastics plate, sheet (except packaging), and shape manufacturing ",32613
+326140,Polystyrene foam product manufacturing                                                                                       ,32614
+326150,Urethane and other foam product (except polystyrene) manufacturing                                                           ,32615
+326160,Plastics bottle manufacturing                                                                                                ,32616
+32619A ,Other plastics product manufacturing                                                                                         ,32619
+326210,Tire manufacturing                                                                                                           ,32621
+326220,Rubber and plastics hoses and belting manufacturing ,32622
+326290,Other rubber product manufacturing                                                                                           ,32629
+32711A ,"Pottery, ceramics, and plumbing fixture manufacturing                                                                        ",32711
+32712A ,"Brick, tile, and other structural clay product manufacturing ",327121
+32712A ,"Brick, tile, and other structural clay product manufacturing ",327122
+32712A ,"Brick, tile, and other structural clay product manufacturing ",327123
+32712B ,Clay and nonclay refractory manufacturing ,327124
+32712B ,Clay and nonclay refractory manufacturing ,327125
+327211,Flat glass manufacturing                                                                                                     ,327211
+327212,Other pressed and blown glass and glassware manufacturing                                                                    ,327212
+327213,Glass container manufacturing                                                                                                ,327213
+327215,Glass product manufacturing made of purchased glass                                                                          ,327215
+327310,Cement manufacturing                                                                                                         ,32731
+327320,Ready-mix concrete manufacturing                                                                                             ,32732
+327330,"Concrete pipe, brick, and block manufacturing",32733
+327390,Other concrete product manufacturing                                                                                         ,32739
+3274A0 ,Lime and gypsum product manufacturing                                                                                        ,3274
+327910,Abrasive product manufacturing                                                                                               ,32791
+327991,Cut stone and stone product manufacturing                                                                                    ,327991
+327992,Ground or treated mineral and earth manufacturing,327992
+327993,Mineral wool manufacturing                                                                                                   ,327993
+327999,Miscellaneous nonmetallic mineral products                                                                                   ,327999
+331110,Iron and steel mills and ferroalloy manufacturing,3311
+331200,Steel product manufacturing from purchased steel,33121
+331200,Steel product manufacturing from purchased steel,33122
+33131A ,Alumina refining and primary aluminum production                                                                             ,331311
+33131A ,Alumina refining and primary aluminum production                                                                             ,331312
+331314,Secondary smelting and alloying of aluminum                                                                                  ,331314
+33131B ,Aluminum product manufacturing from purchased aluminum,331315
+33131B ,Aluminum product manufacturing from purchased aluminum,331316
+33131B ,Aluminum product manufacturing from purchased aluminum,331319
+331411,Primary smelting and refining of copper                                                                                      ,331411
+331419,Primary smelting and refining of nonferrous metal (except copper and aluminum),331419
+331420,"Copper rolling, drawing, extruding and alloying                                                                              ",33142
+331490,"Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying                                       ",33149
+331510,Ferrous metal foundries                                                                                                     ,33151
+331520,Nonferrous metal foundries,33152
+33211A ,"All other forging, stamping, and sintering                                                                                  ",332111
+33211A ,"All other forging, stamping, and sintering                                                                                  ",332112
+33211A ,"All other forging, stamping, and sintering                                                                                  ",332117
+332114,Custom roll forming                                                                                                          ,332114
+33211B ,Crown and closure manufacturing and metal stamping,332115
+33211B ,Crown and closure manufacturing and metal stamping,332116
+33221A ,"Cutlery, utensil, pot, and pan manufacturing ",332211
+33221A ,"Cutlery, utensil, pot, and pan manufacturing ",332214
+33221B ,Handtool manufacturing                                                                                                       ,332212
+33221B ,Handtool manufacturing                                                                                                       ,332213
+332310,Plate work and fabricated structural product manufacturing                                                                   ,33231
+332320,Ornamental and architectural metal products manufacturing                                                                   ,33232
+332410,Power boiler and heat exchanger manufacturing                                                                                ,33241
+332420,Metal tank (heavy gauge) manufacturing                                                                                       ,33242
+332430,"Metal can, box, and other metal container (light gauge) manufacturing  ",33243
+33299A ,Ammunition manufacturing                                                                                                     ,332992
+33299A ,Ammunition manufacturing                                                                                                     ,332993
+33299B ,"Arms, ordnance, and accessories manufacturing",332994
+33299B ,"Arms, ordnance, and accessories manufacturing",332995
+332500,Hardware manufacturing                                                                                                       ,3325
+332600,Spring and wire product manufacturing                                                                                        ,3326
+332710,Machine shops                                                                                                                ,33271
+332720,"Turned product and screw, nut, and bolt manufacturing                                                                        ",33272
+332800,"Coating, engraving, heat treating and allied activities                                                                      ",3328
+33291A ,Valve and fittings other than plumbing                                                                                       ,332911
+33291A ,Valve and fittings other than plumbing                                                                                       ,332912
+33291A ,Valve and fittings other than plumbing                                                                                       ,332919
+332913,Plumbing fixture fitting and trim manufacturing                                                                              ,332913
+332991,Ball and roller bearing manufacturing                                                                                        ,332991
+332996,Fabricated pipe and pipe fitting manufacturing                                                                               ,332996
+33299C ,Other fabricated metal manufacturing                                                                                         ,332997
+33299C ,Other fabricated metal manufacturing                                                                                         ,332998
+33299C ,Other fabricated metal manufacturing                                                                                         ,332999
+333111,Farm machinery and equipment manufacturing                                                                                   ,333111
+333112,Lawn and garden equipment manufacturing                                                                                      ,333112
+333120,Construction machinery manufacturing                                                                                         ,33312
+333130,Mining and oil and gas field machinery manufacturing                                                                         ,33313
+33329A,Other industrial machinery manufacturing                                                                                     ,33321
+33329A,Other industrial machinery manufacturing                                                                                     ,333291
+33329A,Other industrial machinery manufacturing                                                                                     ,333292
+33329A,Other industrial machinery manufacturing                                                                                     ,333293
+33329A,Other industrial machinery manufacturing                                                                                     ,333294
+33329A,Other industrial machinery manufacturing                                                                                     ,333298
+333220,Plastics and rubber industry machinery manufacturing,33322
+333295,Semiconductor machinery manufacturing                                                                                        ,333295
+33331A ,"Vending, commercial, industrial, and office machinery manufacturing",333311
+33331A ,"Vending, commercial, industrial, and office machinery manufacturing",333312
+33331A ,"Vending, commercial, industrial, and office machinery manufacturing",333313
+333314,Optical instrument and lens manufacturing                                                                                    ,333314
+333315,Photographic and photocopying equipment manufacturing                                                                        ,333315
+333319,Other commercial and service industry machinery manufacturing                                                                ,333319
+33341A ,Air purification and ventilation equipment manufacturing                                                                                          ,333411
+33341A ,Air purification and ventilation equipment manufacturing                                                                                          ,333412
+333414,Heating equipment (except warm air furnaces) manufacturing,333414
+333415,"Air conditioning, refrigeration, and warm air heating equipment manufacturing",333415
+333511,Industrial mold manufacturing                                                                                                ,333511
+33351A ,Metal cutting and forming machine tool manufacturing ,333512
+33351A ,Metal cutting and forming machine tool manufacturing ,333513
+333514,"Special tool, die, jig, and fixture manufacturing                                                                            ",333514
+333515,Cutting tool and machine tool accessory manufacturing                                                                        ,333515
+33351B ,Rolling mill and other metalworking machinery manufacturing,333516
+33351B ,Rolling mill and other metalworking machinery manufacturing,333518
+333611,Turbine and turbine generator set units manufacturing                                                                        ,333611
+333612,"Speed changer, industrial high-speed drive, and gear manufacturing                                                           ",333612
+333613,Mechanical power transmission equipment manufacturing                                                                        ,333613
+333618,Other engine equipment manufacturing                                                                                         ,333618
+333911,Pump and pumping equipment manufacturing                                                                                     ,333911
+333911,Pump and pumping equipment manufacturing                                                                                     ,333913
+333912,Air and gas compressor manufacturing                                                                                         ,333912
+333920,Material handling equipment manufacturing                                                                                    ,333921
+333920,Material handling equipment manufacturing                                                                                    ,333922
+333920,Material handling equipment manufacturing                                                                                    ,333923
+333920,Material handling equipment manufacturing                                                                                    ,333924
+333991,Power-driven handtool manufacturing                                                                                          ,333991
+33399A ,Other general purpose machinery manufacturing,333992
+33399A ,Other general purpose machinery manufacturing,333997
+33399A ,Other general purpose machinery manufacturing,333999
+333993,Packaging machinery manufacturing                                                                                            ,333993
+333994,Industrial process furnace and oven manufacturing                                                                            ,333994
+33399B ,Fluid power process machinery                                                                                                ,333995
+33399B ,Fluid power process machinery                                                                                                ,333996
+334111,Electronic computer manufacturing                                                                                            ,334111
+334112,Computer storage device manufacturing                                                                                        ,334112
+33411A ,Computer terminals and other computer peripheral equipment manufacturing                                                                            ,334113
+33411A ,Computer terminals and other computer peripheral equipment manufacturing                                                                            ,334119
+334210,Telephone apparatus manufacturing                                                                                            ,33421
+334220,Broadcast and wireless communications equipment                                                                              ,33422
+334290,Other communications equipment manufacturing                                                                                 ,33429
+334300,Audio and video equipment manufacturing                                                                                      ,3343
+334411,Electron tube manufacturing                                                                                                  ,334411
+334412,Bare printed circuit board manufacturing                                                                                     ,334412
+334413,Semiconductor and related device manufacturing                                                                               ,334413
+33441A ,"Electronic capacitor, resistor, coil, transformer, and other inductor manufacturing                                          ",334414
+33441A ,"Electronic capacitor, resistor, coil, transformer, and other inductor manufacturing                                          ",334415
+33441A ,"Electronic capacitor, resistor, coil, transformer, and other inductor manufacturing                                          ",334416
+334417,Electronic connector manufacturing                                                                                           ,334417
+334418,Printed circuit assembly (electronic assembly) manufacturing                                                                 ,334418
+334419,Other electronic component manufacturing                                                                                     ,334419
+334510,Electromedical and electrotherapeutic apparatus manufacturing ,334510
+334511,"Search, detection, and navigation instruments manufacturing",334511
+334512,Automatic environmental control manufacturing                                                                                ,334512
+334513,Industrial process variable instruments manufacturing,334513
+334514,Totalizing fluid meters and counting devices manufacturing,334514
+334515,Electricity and signal testing instruments manufacturing,334515
+334516,Analytical laboratory instrument manufacturing                                                                               ,334516
+334517,Irradiation apparatus manufacturing                                                                                          ,334517
+33451A ,"Watch, clock, and other measuring and controlling device manufacturing",334518
+33451A ,"Watch, clock, and other measuring and controlling device manufacturing",334519
+33461A ,"Software, audio, and video media reproducing ",334611
+33461A ,"Software, audio, and video media reproducing ",334612
+334613,Magnetic and optical recording media manufacturing                                                                           ,334613
+335110,Electric lamp bulb and part manufacturing                                                                                    ,33511
+335120,Lighting fixture manufacturing                                                                                               ,33512
+335210,Small electrical appliance manufacturing                                                                                     ,33521
+335221,Household cooking appliance manufacturing                                                                                    ,335221
+335222,Household refrigerator and home freezer manufacturing                                                                        ,335222
+335224,Household laundry equipment manufacturing                                                                                    ,335224
+335228,Other major household appliance manufacturing                                                                                ,335228
+335311,"Power, distribution, and specialty transformer manufacturing                                                                       ",335311
+335312,Motor and generator manufacturing                                                                                            ,335312
+335313,Switchgear and switchboard apparatus manufacturing                                                                           ,335313
+335314,Relay and industrial control manufacturing                                                                                   ,335314
+335911,Storage battery manufacturing                                                                                                ,335911
+335912,Primary battery manufacturing                                                                                                ,335912
+335920,Communication and energy wire and cable manufacturing                                                                        ,33592
+335930,Wiring device manufacturing                                                                                                  ,33593
+335991,Carbon and graphite product manufacturing                                                                                    ,335991
+335999,All other miscellaneous electrical equipment and component manufacturing,335999
+336111,Automobile manufacturing                                                                                                     ,336111
+336112,Light truck and utility vehicle manufacturing ,336112
+336120,Heavy duty truck manufacturing                                                                                               ,336120
+336211,Motor vehicle body manufacturing                                                                                             ,336211
+336212,Truck trailer manufacturing                                                                                                  ,336212
+336213,Motor home manufacturing                                                                                                     ,336213
+336214,Travel trailer and camper manufacturing                                                                                      ,336214
+336300,Motor vehicle parts manufacturing                                                                                            ,3363
+336411,Aircraft manufacturing                                                                                                       ,336411
+336412,Aircraft engine and engine parts manufacturing                                                                               ,336412
+336413,Other aircraft parts and auxiliary equipment manufacturing,336413
+336414,Guided missile and space vehicle manufacturing                                                                               ,336414
+33641A ,Propulsion units and parts for space vehicles and guided missiles,336415
+33641A ,Propulsion units and parts for space vehicles and guided missiles,336419
+336500,Railroad rolling stock manufacturing                                                                                         ,3365
+336611,Ship building and repairing                                                                                                  ,336611
+336612,Boat building                                                                                                                ,336612
+336991,"Motorcycle, bicycle, and parts manufacturing                                                                                 ",336991
+336992,"Military armored vehicle, tank, and tank component manufacturing",336992
+336999,All other transportation equipment manufacturing,336999
+337110,Wood kitchen cabinet and countertop manufacturing                                                                            ,33711
+337121,Upholstered household furniture manufacturing                                                                                ,337121
+337122,Nonupholstered wood household furniture manufacturing                                                                        ,337122
+33712A ,Metal and other household furniture (except wood) manufacturing1,337124
+33712A ,Metal and other household furniture (except wood) manufacturing1,337125
+337127,Institutional furniture manufacturing                                                                                        ,337127
+33721A ,"Wood television, radio, and sewing machine cabinet manufacturing1",337129
+337212,Office furniture and custom architectural woodwork and millwork manufacturing1,337211
+337212,Office furniture and custom architectural woodwork and millwork manufacturing1,337212
+337212,Office furniture and custom architectural woodwork and millwork manufacturing1,337214
+337215,"Showcase, partition, shelving, and locker manufacturing  ",337215
+337910,Mattress manufacturing  ,33791
+337920,Blind and shade manufacturing   ,33792
+339111,Laboratory apparatus and furniture manufacturing                                                                             ,339111
+339112,Surgical and medical instrument manufacturing                                                                                ,339112
+339113,Surgical appliance and supplies manufacturing                                                                                ,339113
+339114,Dental equipment and supplies manufacturing                                                                                  ,339114
+339115,Ophthalmic goods manufacturing                                                                                               ,339115
+339116,Dental laboratories                                                                                                          ,339116
+339910,Jewelry and silverware manufacturing                                                                                         ,33991
+339920,Sporting and athletic goods manufacturing                                                                                    ,33992
+339930,"Doll, toy, and game manufacturing                                                                                            ",33993
+339940,Office supplies (except paper) manufacturing                                                                                 ,33994
+339950,Sign manufacturing                                                                                                           ,33995
+339991,"Gasket, packing, and sealing device manufacturing                                                                            ",339991
+339992,Musical instrument manufacturing                                                                                             ,339992
+33999A ,All other miscellaneous manufacturing                                                                                        ,339993
+33999A ,All other miscellaneous manufacturing                                                                                        ,339995
+33999A ,All other miscellaneous manufacturing                                                                                        ,339999
+339994,"Broom, brush, and mop manufacturing                                                                                          ",339994
+420000,Wholesale trade                                                                                                              ,42
+4A0000 ,Retail trade                                                                                                                 ,44
+4A0000 ,Retail trade                                                                                                                 ,45
+481000,Air transportation                                                                                                           ,481
+482000,Rail transportation                                                                                                          ,482
+483000,Water transportation                                                                                                         ,483
+484000,Truck transportation                                                                                                         ,484
+485000,Transit and ground passenger transportation                                                                                  ,485
+486000,Pipeline transportation                                                                                                      ,486
+48A000 ,Scenic and sightseeing transportation and support activities for transportation                                              ,487
+48A000 ,Scenic and sightseeing transportation and support activities for transportation                                              ,488
+492000,Couriers and messengers                                                                                                      ,492
+493000,Warehousing and storage                                                                                                      ,493
+511110,Newspaper publishers                                                                                                         ,51111
+511120,Periodical publishers                                                                                                        ,51112
+511130,Book publishers                                                                                                              ,51113
+5111A0 ,"Directory, mailing list, and other publishers                                                                                ",51114
+5111A0 ,"Directory, mailing list, and other publishers                                                                                ",51119
+511200,Software publishers                                                                                                          ,51121
+512100,Motion picture and video industries                                                                                          ,5121
+512200,Sound recording industries                                                                                                   ,5122
+515100,Radio and television broadcasting                                                                                            ,5151
+515200,Cable and other subscription programming                                                                                     ,5152
+516110,Internet publishing and broadcasting                                                                                         ,516
+517000,Telecommunications                                                                                                           ,517
+518100,Internet service providers and web search portals                                                                            ,5181
+518200,"Data processing, hosting, and related services                                                                               ",5182
+519100,Other information services                                                                                                   ,519
+52A000 ,Monetary authorities and depository credit intermediation                                                                    ,521
+52A000 ,Monetary authorities and depository credit intermediation                                                                    ,5221
+522A00 ,Nondepository credit intermediation and related activities,5222
+522A00 ,Nondepository credit intermediation and related activities,5223
+523000,"Securities, commodity contracts, investments, and related activities                                   ",523
+524100,Insurance carriers                                                                                                           ,5241
+524200,"Insurance agencies, brokerages, and related activities",5242
+525000,"Funds, trusts, and other financial vehicles                                                                                  ",525
+531000,Real estate                                                                                                                  ,531
+532100,Automotive equipment rental and leasing                                                                                      ,5321
+532A00 ,General and consumer goods rental except video tapes and discs                                                               ,53221
+532A00 ,General and consumer goods rental except video tapes and discs                                                               ,53222
+532A00 ,General and consumer goods rental except video tapes and discs                                                               ,53229
+532A00 ,General and consumer goods rental except video tapes and discs                                                               ,5323
+532230,Video tape and disc rental                                                                                                   ,53223
+532400,Commercial and industrial machinery and equipment rental and leasing                                      ,5324
+533000,Lessors of nonfinancial intangible assets                                                                                    ,533
+541100,Legal services                                                                                                               ,5411
+541200,"Accounting, tax preparation, bookkeeping, and payroll services                                             ",5412
+541300,"Architectural, engineering, and related services                                          ",5413
+541400,Specialized design services                                                                                                  ,5414
+541511,Custom computer programming services                                                                                         ,541511
+541512,Computer systems design services                                                                                             ,541512
+54151A ,"Other computer related services, including facilities management                                                             ",541513
+54151A ,"Other computer related services, including facilities management                                                             ",541519
+541610,"Management, scientific, and technical consulting services",54161
+5416A0 ,Environmental and other technical consulting services                                                                        ,54162
+5416A0 ,Environmental and other technical consulting services                                                                        ,54169
+541700,Scientific research and development services                                                                                 ,5417
+541800,Advertising and related services                                                                                             ,5418
+5419A0 ,"All other miscellaneous professional, scientific, and technical services                                                                  ",54191
+5419A0 ,"All other miscellaneous professional, scientific, and technical services                                                                  ",54193
+5419A0 ,"All other miscellaneous professional, scientific, and technical services                                                                  ",54199
+541920,Photographic services                                                                                                        ,54192
+541940,Veterinary services                                                                                                          ,54194
+550000,Management of companies and enterprises                                                                                      ,55
+561100,Office administrative services                                                                                               ,5611
+561200,Facilities support services                                                                                                  ,5612
+561400,Business support services                                                                                                    ,5614
+561600,Investigation and security services                                                                                          ,5616
+561700,Services to buildings and dwellings                                                                                          ,5617
+561900,Other support services                                                                                                       ,5619
+561300,Employment services                                                                                                          ,5613
+561500,Travel arrangement and reservation services                                                                                  ,5615
+562000,Waste management and remediation services                                                                                    ,562
+611100,Elementary and secondary schools                                                                                             ,6111
+611A00 ,"Junior colleges, colleges, universities, and professional schools",6112
+611A00 ,"Junior colleges, colleges, universities, and professional schools",6113
+611B00 ,Other educational services                                                                                                   ,6114
+611B00 ,Other educational services                                                                                                   ,6115
+611B00 ,Other educational services                                                                                                   ,6116
+611B00 ,Other educational services                                                                                                   ,6117
+621A00 ,"Offices of physicians, dentists, and other health practitioners                                                              ",6211
+621A00 ,"Offices of physicians, dentists, and other health practitioners                                                              ",6212
+621A00 ,"Offices of physicians, dentists, and other health practitioners                                                              ",6213
+621B00 ,Medical and diagnostic labs and outpatient and other ambulatory care services,6214
+621B00 ,Medical and diagnostic labs and outpatient and other ambulatory care services,6215
+621B00 ,Medical and diagnostic labs and outpatient and other ambulatory care services,6219
+621600,Home health care services                                                                                                    ,6216
+622000,Hospitals                                                                                                                    ,622
+623000,Nursing and residential care facilities                                                                                      ,623
+624A00 ,Individual and family services                                                                                               ,6241
+624200,"Community food, housing, and other relief services, including rehabilitation services",6242
+624200,"Community food, housing, and other relief services, including rehabilitation services",6243
+624400,Child day care services                                                                                                      ,6244
+711100,Performing arts companies                                                                                                    ,7111
+711200,Spectator sports                                                                                                             ,7112
+711A00 ,Promoters of performing arts and sports and agents for public figures                                                        ,7113
+711A00 ,Promoters of performing arts and sports and agents for public figures                                                        ,7114
+711500,"Independent artists, writers, and performers                                                                                 ",7115
+712000,"Museums, historical sites, zoos, and parks                                                                                   ",712
+713A00 ,"Amusement parks, arcades, and gambling industries",7131
+713A00 ,"Amusement parks, arcades, and gambling industries",7132
+713B00 ,Other amusement and recreation industries,71391
+713B00 ,Other amusement and recreation industries,71392
+713B00 ,Other amusement and recreation industries,71393
+713B00 ,Other amusement and recreation industries,71399
+713940,Fitness and recreational sports centers  ,71394
+713950,Bowling centers                                                                                                              ,71395
+7211A0 ,"Hotels and motels, including casino hotels                                                                                   ",72111
+7211A0 ,"Hotels and motels, including casino hotels                                                                                   ",72112
+721A00 ,Other accommodations                                                                                                         ,72119
+721A00 ,Other accommodations                                                                                                         ,7212
+721A00 ,Other accommodations                                                                                                         ,7213
+722000,Food services and drinking places                                                                                            ,722
+8111A0 ,"Automotive repair and maintenance, except car washes                                                                         ",81111
+8111A0 ,"Automotive repair and maintenance, except car washes                                                                         ",81112
+8111A0 ,"Automotive repair and maintenance, except car washes                                                                         ",811191
+8111A0 ,"Automotive repair and maintenance, except car washes                                                                         ",811198
+811192,Car washes                                                                                                                   ,811192
+811200,Electronic and precision equipment repair and maintenance,8112
+811300,Commercial and industrial machinery and equipment repair and maintenance,8113
+811400,Personal and household goods repair and maintenance,8114
+812100,Personal care services                                                                                                       ,8121
+812200,Death care services                                                                                                          ,8122
+812300,Dry-cleaning and laundry services                                                                                             ,8123
+812900,Other personal services                                                                                                      ,8129
+813100,Religious organizations                                                                                                      ,8131
+813A00 ,"Grantmaking, giving, and social advocacy organizations",8132
+813A00 ,"Grantmaking, giving, and social advocacy organizations",8133
+813B00 ,"Civic, social, professional, and similar organizations",8134
+813B00 ,"Civic, social, professional, and similar organizations",8139
+814000,Private households                                                                                                           ,814
+491000,Postal service,491
